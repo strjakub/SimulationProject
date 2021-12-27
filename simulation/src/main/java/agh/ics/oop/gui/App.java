@@ -200,9 +200,9 @@ public class App extends Application {
                 _______________________________________________________________________________________________
                 
                 """);
-        Label w = new Label("szerokosc: (min:4   max:100)");
+        Label w = new Label("szerokosc: (min:3   max:100)");
         TextField wText = new TextField();
-        Label h = new Label("wysokosc: (min:4   max:100)");
+        Label h = new Label("wysokosc: (min:3   max:100)");
         TextField hText = new TextField();
         Label a = new Label("poczatkowa ilosc zwierzatek: (min:2   max:30)");
         TextField aText = new TextField();
@@ -221,9 +221,9 @@ public class App extends Application {
         Scene openScene = new Scene(wrapper, 1000, 700);
         submit.setOnAction(event -> {
             try{
-                if(Math.min(Math.max(Integer.parseInt(wText.getText()), 4), 100) * Math.min(Math.max(Integer.parseInt(hText.getText()), 4), 100) > 2500)
+                if(Math.min(Math.max(Integer.parseInt(wText.getText()), 3), 100) * Math.min(Math.max(Integer.parseInt(hText.getText()), 3), 100) > 2500)
                     throw new RuntimeException("map is too big");
-                pseudoInit(Math.min(Math.max(Integer.parseInt(wText.getText()), 4), 100), Math.min(Math.max(Integer.parseInt(hText.getText()), 4), 100),
+                pseudoInit(Math.min(Math.max(Integer.parseInt(wText.getText()), 3), 100), Math.min(Math.max(Integer.parseInt(hText.getText()), 3), 100),
                         Math.max(Integer.parseInt(jText.getText()), 10), Math.min(Math.max(Integer.parseInt(aText.getText()), 2), 30),
                         Math.max(Integer.parseInt(gText.getText()), 1),
                         Math.max(Integer.parseInt(sText.getText()), 1), Math.max(Integer.parseInt(kText.getText()), 1));

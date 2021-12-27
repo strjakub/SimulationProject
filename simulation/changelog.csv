@@ -1,1281 +1,1577 @@
 ---DANE Z OSTATNIEJ SYMULACJI---
 MAP1
-age: 4
-NoGrass: 8
-NoAnimals: 5
-AvgEnergy: 46.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP2
-age: 4
-NoGrass: 8
-NoAnimals: 5
-AvgEnergy: 46.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP1
-age: 5
-NoGrass: 10
-NoAnimals: 5
-AvgEnergy: 45.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP2
-age: 5
-NoGrass: 10
-NoAnimals: 5
-AvgEnergy: 45.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP1
-age: 7
-NoGrass: 14
-NoAnimals: 5
-AvgEnergy: 43.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP2
-age: 7
-NoGrass: 14
-NoAnimals: 5
-AvgEnergy: 43.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP1
-age: 9
-NoGrass: 17
-NoAnimals: 5
-AvgEnergy: 51.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP2
-age: 9
-NoGrass: 18
-NoAnimals: 5
-AvgEnergy: 41.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP1
-age: 10
-NoGrass: 19
-NoAnimals: 5
-AvgEnergy: 50.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP2
-age: 10
-NoGrass: 20
-NoAnimals: 5
-AvgEnergy: 40.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP1
-age: 11
-NoGrass: 21
-NoAnimals: 5
-AvgEnergy: 49.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP2
-age: 11
-NoGrass: 22
-NoAnimals: 5
-AvgEnergy: 39.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP1
-age: 12
-NoGrass: 23
-NoAnimals: 5
-AvgEnergy: 48.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP2
-age: 12
-NoGrass: 24
-NoAnimals: 5
-AvgEnergy: 38.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP1
-age: 13
-NoGrass: 25
-NoAnimals: 5
-AvgEnergy: 47.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP2
-age: 13
-NoGrass: 26
-NoAnimals: 5
-AvgEnergy: 37.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP1
-age: 14
-NoGrass: 27
-NoAnimals: 5
-AvgEnergy: 46.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP2
-age: 14
-NoGrass: 28
-NoAnimals: 5
-AvgEnergy: 36.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP1
-age: 15
-NoGrass: 28
-NoAnimals: 5
-AvgEnergy: 55.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP2
-age: 15
-NoGrass: 30
-NoAnimals: 5
-AvgEnergy: 35.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP1
-age: 16
-NoGrass: 30
-NoAnimals: 5
-AvgEnergy: 54.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP2
-age: 16
-NoGrass: 32
-NoAnimals: 5
-AvgEnergy: 34.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP1
-age: 17
-NoGrass: 32
-NoAnimals: 5
-AvgEnergy: 53.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP2
-age: 17
-NoGrass: 34
-NoAnimals: 5
-AvgEnergy: 33.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP1
-age: 18
-NoGrass: 34
-NoAnimals: 5
-AvgEnergy: 52.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP2
-age: 18
-NoGrass: 36
-NoAnimals: 5
-AvgEnergy: 32.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP1
-age: 19
-NoGrass: 36
-NoAnimals: 5
-AvgEnergy: 51.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP2
-age: 19
-NoGrass: 38
-NoAnimals: 5
-AvgEnergy: 31.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP1
-age: 20
-NoGrass: 38
-NoAnimals: 5
-AvgEnergy: 50.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP2
-age: 20
-NoGrass: 40
-NoAnimals: 5
-AvgEnergy: 30.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP1
-age: 21
-NoGrass: 40
-NoAnimals: 5
-AvgEnergy: 49.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP2
-age: 21
-NoGrass: 42
-NoAnimals: 5
-AvgEnergy: 29.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP1
-age: 22
-NoGrass: 42
-NoAnimals: 5
-AvgEnergy: 48.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP2
-age: 22
-NoGrass: 44
-NoAnimals: 5
-AvgEnergy: 28.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP1
-age: 23
-NoGrass: 44
-NoAnimals: 5
-AvgEnergy: 47.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP2
-age: 23
-NoGrass: 46
-NoAnimals: 5
-AvgEnergy: 27.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP1
-age: 24
-NoGrass: 46
-NoAnimals: 5
-AvgEnergy: 46.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP2
-age: 24
-NoGrass: 48
-NoAnimals: 5
-AvgEnergy: 26.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP1
-age: 25
-NoGrass: 47
-NoAnimals: 5
-AvgEnergy: 55.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP2
-age: 25
-NoGrass: 50
-NoAnimals: 5
-AvgEnergy: 25.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP1
-age: 26
-NoGrass: 49
-NoAnimals: 5
-AvgEnergy: 54.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP2
-age: 26
-NoGrass: 52
-NoAnimals: 5
-AvgEnergy: 24.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP1
-age: 27
-NoGrass: 51
-NoAnimals: 5
-AvgEnergy: 53.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP2
-age: 27
-NoGrass: 54
-NoAnimals: 5
-AvgEnergy: 23.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP1
-age: 28
-NoGrass: 53
-NoAnimals: 5
-AvgEnergy: 52.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP2
-age: 28
-NoGrass: 56
-NoAnimals: 5
-AvgEnergy: 22.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP1
-age: 29
-NoGrass: 55
-NoAnimals: 5
-AvgEnergy: 51.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP2
-age: 29
-NoGrass: 58
-NoAnimals: 5
-AvgEnergy: 21.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP1
-age: 30
-NoGrass: 57
-NoAnimals: 5
-AvgEnergy: 50.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP2
-age: 30
-NoGrass: 60
-NoAnimals: 5
-AvgEnergy: 20.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP1
-age: 31
-NoGrass: 59
-NoAnimals: 5
-AvgEnergy: 49.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP2
-age: 31
-NoGrass: 62
-NoAnimals: 5
-AvgEnergy: 19.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP1
-age: 32
-NoGrass: 61
-NoAnimals: 5
-AvgEnergy: 48.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP2
-age: 32
-NoGrass: 64
-NoAnimals: 5
-AvgEnergy: 18.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP1
-age: 33
-NoGrass: 63
-NoAnimals: 5
-AvgEnergy: 47.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP2
-age: 33
-NoGrass: 66
-NoAnimals: 5
-AvgEnergy: 17.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP1
-age: 34
-NoGrass: 65
-NoAnimals: 5
-AvgEnergy: 46.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP2
-age: 34
-NoGrass: 68
-NoAnimals: 5
-AvgEnergy: 16.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP1
-age: 35
-NoGrass: 67
-NoAnimals: 5
-AvgEnergy: 45.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP2
-age: 35
-NoGrass: 70
-NoAnimals: 5
-AvgEnergy: 15.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP1
-age: 36
-NoGrass: 69
-NoAnimals: 5
-AvgEnergy: 44.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP2
-age: 36
-NoGrass: 72
-NoAnimals: 5
-AvgEnergy: 14.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP1
-age: 37
-NoGrass: 71
-NoAnimals: 5
-AvgEnergy: 43.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP2
-age: 37
-NoGrass: 74
-NoAnimals: 5
-AvgEnergy: 13.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP1
-age: 38
-NoGrass: 73
-NoAnimals: 5
-AvgEnergy: 42.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP2
-age: 38
-NoGrass: 76
-NoAnimals: 5
-AvgEnergy: 12.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP1
-age: 39
-NoGrass: 75
-NoAnimals: 5
-AvgEnergy: 41.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP2
-age: 39
-NoGrass: 78
-NoAnimals: 5
+age: 3
+NoGrass: 2
+NoAnimals: 4
 AvgEnergy: 11.0
 AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP1
-age: 40
-NoGrass: 77
-NoAnimals: 5
-AvgEnergy: 40.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
+AvgChildren: 1.0
 
 MAP2
-age: 40
-NoGrass: 80
-NoAnimals: 5
-AvgEnergy: 10.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP1
-age: 41
-NoGrass: 79
-NoAnimals: 5
-AvgEnergy: 39.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP2
-age: 41
-NoGrass: 82
-NoAnimals: 5
-AvgEnergy: 9.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP1
-age: 42
-NoGrass: 81
-NoAnimals: 5
-AvgEnergy: 38.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP2
-age: 42
-NoGrass: 84
-NoAnimals: 5
-AvgEnergy: 8.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP1
-age: 43
-NoGrass: 83
-NoAnimals: 5
-AvgEnergy: 37.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP2
-age: 43
-NoGrass: 86
-NoAnimals: 5
-AvgEnergy: 7.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP1
-age: 44
-NoGrass: 85
-NoAnimals: 5
-AvgEnergy: 36.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP2
-age: 44
-NoGrass: 88
-NoAnimals: 5
+age: 3
+NoGrass: 3
+NoAnimals: 4
 AvgEnergy: 6.0
 AvgLifetime: 0.0
-AvgChildren: 0.0
+AvgChildren: 1.0
 
 MAP1
-age: 45
-NoGrass: 86
-NoAnimals: 5
-AvgEnergy: 45.0
+age: 4
+NoGrass: 2
+NoAnimals: 4
+AvgEnergy: 15.0
 AvgLifetime: 0.0
-AvgChildren: 0.0
+AvgChildren: 1.0
 
 MAP2
-age: 45
-NoGrass: 90
-NoAnimals: 5
+age: 4
+NoGrass: 4
+NoAnimals: 4
 AvgEnergy: 5.0
 AvgLifetime: 0.0
-AvgChildren: 0.0
+AvgChildren: 1.0
 
 MAP1
-age: 46
-NoGrass: 88
+age: 5
+NoGrass: 4
 NoAnimals: 5
-AvgEnergy: 44.0
+AvgEnergy: 10.4
 AvgLifetime: 0.0
-AvgChildren: 0.0
+AvgChildren: 1.2
 
 MAP2
-age: 46
-NoGrass: 92
-NoAnimals: 5
+age: 5
+NoGrass: 5
+NoAnimals: 4
 AvgEnergy: 4.0
 AvgLifetime: 0.0
-AvgChildren: 0.0
+AvgChildren: 1.0
 
 MAP1
-age: 47
-NoGrass: 90
-NoAnimals: 5
-AvgEnergy: 43.0
+age: 6
+NoGrass: 5
+NoAnimals: 6
+AvgEnergy: 7.333333333333333
 AvgLifetime: 0.0
-AvgChildren: 0.0
+AvgChildren: 1.3333333333333333
 
 MAP2
-age: 47
-NoGrass: 94
-NoAnimals: 5
+age: 6
+NoGrass: 6
+NoAnimals: 4
 AvgEnergy: 3.0
 AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP1
-age: 48
-NoGrass: 92
-NoAnimals: 5
-AvgEnergy: 42.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
+AvgChildren: 1.0
 
 MAP2
-age: 48
-NoGrass: 96
-NoAnimals: 5
+age: 7
+NoGrass: 6
+NoAnimals: 3
+AvgEnergy: 3.0
+AvgLifetime: 4.0
+AvgChildren: 1.3333333333333333
+
+MAP1
+age: 7
+NoGrass: 6
+NoAnimals: 6
+AvgEnergy: 6.166666666666667
+AvgLifetime: 4.0
+AvgChildren: 1.6666666666666667
+
+MAP1
+age: 8
+NoGrass: 7
+NoAnimals: 6
+AvgEnergy: 5.166666666666667
+AvgLifetime: 4.0
+AvgChildren: 1.6666666666666667
+
+MAP2
+age: 8
+NoGrass: 6
+NoAnimals: 3
 AvgEnergy: 2.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
+AvgLifetime: 4.0
+AvgChildren: 1.3333333333333333
 
 MAP1
-age: 49
-NoGrass: 94
-NoAnimals: 5
-AvgEnergy: 41.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
+age: 9
+NoGrass: 6
+NoAnimals: 6
+AvgEnergy: 7.5
+AvgLifetime: 4.0
+AvgChildren: 1.6666666666666667
 
 MAP2
-age: 49
-NoGrass: 98
-NoAnimals: 5
+age: 9
+NoGrass: 7
+NoAnimals: 2
+AvgEnergy: 2.0
+AvgLifetime: 5.5
+AvgChildren: 2.0
+
+MAP1
+age: 10
+NoGrass: 5
+NoAnimals: 6
+AvgEnergy: 9.833333333333334
+AvgLifetime: 4.0
+AvgChildren: 1.6666666666666667
+
+MAP2
+age: 10
+NoGrass: 7
+NoAnimals: 2
 AvgEnergy: 1.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
+AvgLifetime: 5.5
+AvgChildren: 2.0
+
+MAP1
+age: 11
+NoGrass: 3
+NoAnimals: 7
+AvgEnergy: 12.714285714285714
+AvgLifetime: 4.0
+AvgChildren: 1.7142857142857142
+
+MAP2
+age: 11
+NoGrass: 7
+NoAnimals: 2
+AvgEnergy: 0.0
+AvgLifetime: 5.5
+AvgChildren: 2.0
+
+MAP1
+age: 12
+NoGrass: 4
+NoAnimals: 8
+AvgEnergy: 9.875
+AvgLifetime: 4.0
+AvgChildren: 1.75
+
+MAP1
+age: 13
+NoGrass: 3
+NoAnimals: 8
+AvgEnergy: 13.875
+AvgLifetime: 4.0
+AvgChildren: 1.75
+
+MAP1
+age: 14
+NoGrass: 3
+NoAnimals: 8
+AvgEnergy: 15.375
+AvgLifetime: 4.0
+AvgChildren: 1.75
+
+MAP1
+age: 15
+NoGrass: 2
+NoAnimals: 9
+AvgEnergy: 14.666666666666666
+AvgLifetime: 4.0
+AvgChildren: 1.7777777777777777
+
+MAP1
+age: 16
+NoGrass: 2
+NoAnimals: 8
+AvgEnergy: 20.5
+AvgLifetime: 9.0
+AvgChildren: 1.625
+
+MAP1
+age: 17
+NoGrass: 3
+NoAnimals: 8
+AvgEnergy: 19.5
+AvgLifetime: 9.0
+AvgChildren: 1.625
+
+MAP1
+age: 18
+NoGrass: 3
+NoAnimals: 8
+AvgEnergy: 21.0
+AvgLifetime: 9.0
+AvgChildren: 1.625
+
+MAP1
+age: 19
+NoGrass: 2
+NoAnimals: 8
+AvgEnergy: 24.25
+AvgLifetime: 8.0
+AvgChildren: 1.875
+
+MAP1
+age: 20
+NoGrass: 3
+NoAnimals: 10
+AvgEnergy: 17.6
+AvgLifetime: 8.0
+AvgChildren: 1.9
+
+MAP1
+age: 21
+NoGrass: 3
+NoAnimals: 12
+AvgEnergy: 14.916666666666666
+AvgLifetime: 8.0
+AvgChildren: 1.9166666666666667
+
+MAP1
+age: 22
+NoGrass: 3
+NoAnimals: 13
+AvgEnergy: 14.153846153846153
+AvgLifetime: 8.0
+AvgChildren: 1.9230769230769231
+
+MAP1
+age: 23
+NoGrass: 2
+NoAnimals: 13
+AvgEnergy: 14.692307692307692
+AvgLifetime: 8.0
+AvgChildren: 1.9230769230769231
+
+MAP1
+age: 24
+NoGrass: 2
+NoAnimals: 12
+AvgEnergy: 14.916666666666666
+AvgLifetime: 11.75
+AvgChildren: 1.75
+
+MAP1
+age: 25
+NoGrass: 1
+NoAnimals: 12
+AvgEnergy: 15.583333333333334
+AvgLifetime: 11.75
+AvgChildren: 1.75
+
+MAP1
+age: 26
+NoGrass: 0
+NoAnimals: 12
+AvgEnergy: 15.833333333333334
+AvgLifetime: 10.0
+AvgChildren: 1.9166666666666667
+
+MAP1
+age: 27
+NoGrass: 0
+NoAnimals: 13
+AvgEnergy: 14.923076923076923
+AvgLifetime: 10.0
+AvgChildren: 1.9230769230769231
+
+MAP1
+age: 28
+NoGrass: 0
+NoAnimals: 13
+AvgEnergy: 15.461538461538462
+AvgLifetime: 10.0
+AvgChildren: 1.9230769230769231
+
+MAP1
+age: 29
+NoGrass: 0
+NoAnimals: 12
+AvgEnergy: 17.416666666666668
+AvgLifetime: 9.5
+AvgChildren: 2.0833333333333335
+
+MAP1
+age: 30
+NoGrass: 1
+NoAnimals: 13
+AvgEnergy: 14.538461538461538
+AvgLifetime: 10.714285714285714
+AvgChildren: 2.076923076923077
+
+MAP1
+age: 31
+NoGrass: 1
+NoAnimals: 13
+AvgEnergy: 14.846153846153847
+AvgLifetime: 10.625
+AvgChildren: 2.230769230769231
+
+MAP1
+age: 32
+NoGrass: 2
+NoAnimals: 12
+AvgEnergy: 15.083333333333334
+AvgLifetime: 10.666666666666666
+AvgChildren: 2.4166666666666665
+
+MAP1
+age: 33
+NoGrass: 2
+NoAnimals: 12
+AvgEnergy: 14.083333333333334
+AvgLifetime: 10.666666666666666
+AvgChildren: 2.4166666666666665
+
+MAP1
+age: 34
+NoGrass: 3
+NoAnimals: 12
+AvgEnergy: 13.083333333333334
+AvgLifetime: 10.666666666666666
+AvgChildren: 2.4166666666666665
+
+MAP1
+age: 35
+NoGrass: 3
+NoAnimals: 12
+AvgEnergy: 12.083333333333334
+AvgLifetime: 10.666666666666666
+AvgChildren: 2.4166666666666665
+
+MAP1
+age: 36
+NoGrass: 1
+NoAnimals: 10
+AvgEnergy: 19.5
+AvgLifetime: 12.272727272727273
+AvgChildren: 2.5
+
+MAP1
+age: 37
+NoGrass: 1
+NoAnimals: 10
+AvgEnergy: 20.0
+AvgLifetime: 12.0
+AvgChildren: 2.7
+
+MAP1
+age: 38
+NoGrass: 1
+NoAnimals: 11
+AvgEnergy: 16.818181818181817
+AvgLifetime: 12.0
+AvgChildren: 2.6363636363636362
+
+MAP1
+age: 39
+NoGrass: 1
+NoAnimals: 12
+AvgEnergy: 14.166666666666666
+AvgLifetime: 12.0
+AvgChildren: 2.5833333333333335
+
+MAP1
+age: 40
+NoGrass: 0
+NoAnimals: 13
+AvgEnergy: 13.384615384615385
+AvgLifetime: 12.0
+AvgChildren: 2.5384615384615383
+
+MAP1
+age: 41
+NoGrass: 1
+NoAnimals: 14
+AvgEnergy: 11.285714285714286
+AvgLifetime: 12.0
+AvgChildren: 2.5
+
+MAP1
+age: 42
+NoGrass: 0
+NoAnimals: 14
+AvgEnergy: 13.142857142857142
+AvgLifetime: 12.0
+AvgChildren: 2.5
+
+MAP1
+age: 43
+NoGrass: 1
+NoAnimals: 13
+AvgEnergy: 13.153846153846153
+AvgLifetime: 12.0
+AvgChildren: 2.6923076923076925
+
+MAP1
+age: 44
+NoGrass: 0
+NoAnimals: 14
+AvgEnergy: 12.285714285714286
+AvgLifetime: 12.0
+AvgChildren: 2.642857142857143
+
+MAP1
+age: 45
+NoGrass: 1
+NoAnimals: 14
+AvgEnergy: 11.0
+AvgLifetime: 13.857142857142858
+AvgChildren: 2.357142857142857
+
+MAP1
+age: 46
+NoGrass: 2
+NoAnimals: 15
+AvgEnergy: 9.133333333333333
+AvgLifetime: 13.857142857142858
+AvgChildren: 2.3333333333333335
+
+MAP1
+age: 47
+NoGrass: 2
+NoAnimals: 17
+AvgEnergy: 8.0
+AvgLifetime: 13.857142857142858
+AvgChildren: 2.2941176470588234
+
+MAP1
+age: 48
+NoGrass: 1
+NoAnimals: 14
+AvgEnergy: 11.571428571428571
+AvgLifetime: 13.0
+AvgChildren: 2.642857142857143
+
+MAP1
+age: 49
+NoGrass: 1
+NoAnimals: 13
+AvgEnergy: 13.0
+AvgLifetime: 12.722222222222221
+AvgChildren: 2.8461538461538463
 
 MAP1
 age: 50
-NoGrass: 96
-NoAnimals: 5
-AvgEnergy: 40.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
-
-MAP2
-age: 50
-NoGrass: 99
-NoAnimals: 5
-AvgEnergy: 10.0
-AvgLifetime: 0.0
-AvgChildren: 0.0
+NoGrass: 2
+NoAnimals: 13
+AvgEnergy: 12.0
+AvgLifetime: 12.722222222222221
+AvgChildren: 2.8461538461538463
 
 MAP1
 age: 51
-NoGrass: 98
-NoAnimals: 3
-AvgEnergy: 65.66666666666667
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 1
+NoAnimals: 14
+AvgEnergy: 11.142857142857142
+AvgLifetime: 12.722222222222221
+AvgChildren: 2.7857142857142856
 
 MAP1
 age: 52
-NoGrass: 100
-NoAnimals: 3
-AvgEnergy: 64.66666666666667
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 1
+NoAnimals: 14
+AvgEnergy: 11.285714285714286
+AvgLifetime: 12.263157894736842
+AvgChildren: 2.9285714285714284
 
 MAP1
 age: 53
-NoGrass: 102
-NoAnimals: 3
-AvgEnergy: 63.666666666666664
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 0
+NoAnimals: 14
+AvgEnergy: 12.857142857142858
+AvgLifetime: 11.95
+AvgChildren: 3.0714285714285716
 
 MAP1
 age: 54
-NoGrass: 104
-NoAnimals: 3
-AvgEnergy: 62.666666666666664
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 1
+NoAnimals: 15
+AvgEnergy: 10.6
+AvgLifetime: 11.666666666666666
+AvgChildren: 3.1333333333333333
 
 MAP1
 age: 55
-NoGrass: 106
-NoAnimals: 3
-AvgEnergy: 61.666666666666664
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 1
+NoAnimals: 16
+AvgEnergy: 9.875
+AvgLifetime: 11.545454545454545
+AvgChildren: 3.1875
 
 MAP1
 age: 56
-NoGrass: 108
-NoAnimals: 3
-AvgEnergy: 60.666666666666664
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 2
+NoAnimals: 17
+AvgEnergy: 8.176470588235293
+AvgLifetime: 11.545454545454545
+AvgChildren: 3.1176470588235294
 
 MAP1
 age: 57
-NoGrass: 110
-NoAnimals: 3
-AvgEnergy: 59.666666666666664
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 1
+NoAnimals: 16
+AvgEnergy: 10.0
+AvgLifetime: 13.166666666666666
+AvgChildren: 2.9375
 
 MAP1
 age: 58
-NoGrass: 112
-NoAnimals: 3
-AvgEnergy: 58.666666666666664
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 2
+NoAnimals: 15
+AvgEnergy: 9.666666666666666
+AvgLifetime: 14.08
+AvgChildren: 2.8666666666666667
 
 MAP1
 age: 59
-NoGrass: 114
-NoAnimals: 3
-AvgEnergy: 57.666666666666664
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 2
+NoAnimals: 16
+AvgEnergy: 9.125
+AvgLifetime: 14.08
+AvgChildren: 2.8125
 
 MAP1
 age: 60
-NoGrass: 116
-NoAnimals: 3
-AvgEnergy: 56.666666666666664
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 1
+NoAnimals: 17
+AvgEnergy: 9.823529411764707
+AvgLifetime: 14.08
+AvgChildren: 2.764705882352941
 
 MAP1
 age: 61
-NoGrass: 118
-NoAnimals: 3
-AvgEnergy: 55.666666666666664
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 0
+NoAnimals: 16
+AvgEnergy: 10.5625
+AvgLifetime: 13.37037037037037
+AvgChildren: 3.0625
 
 MAP1
 age: 62
-NoGrass: 120
-NoAnimals: 3
-AvgEnergy: 54.666666666666664
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 0
+NoAnimals: 15
+AvgEnergy: 10.266666666666667
+AvgLifetime: 13.214285714285714
+AvgChildren: 3.2666666666666666
 
 MAP1
 age: 63
-NoGrass: 122
-NoAnimals: 3
-AvgEnergy: 53.666666666666664
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 1
+NoAnimals: 15
+AvgEnergy: 8.8
+AvgLifetime: 12.733333333333333
+AvgChildren: 3.533333333333333
 
 MAP1
 age: 64
-NoGrass: 124
-NoAnimals: 3
-AvgEnergy: 52.666666666666664
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 1
+NoAnimals: 16
+AvgEnergy: 8.1875
+AvgLifetime: 12.64516129032258
+AvgChildren: 3.5625
 
 MAP1
 age: 65
-NoGrass: 126
-NoAnimals: 3
-AvgEnergy: 51.666666666666664
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 1
+NoAnimals: 16
+AvgEnergy: 8.3125
+AvgLifetime: 12.65625
+AvgChildren: 3.4375
 
 MAP1
 age: 66
-NoGrass: 128
-NoAnimals: 3
-AvgEnergy: 50.666666666666664
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 2
+NoAnimals: 15
+AvgEnergy: 7.866666666666666
+AvgLifetime: 12.909090909090908
+AvgChildren: 3.466666666666667
 
 MAP1
 age: 67
-NoGrass: 130
-NoAnimals: 3
-AvgEnergy: 49.666666666666664
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 2
+NoAnimals: 14
+AvgEnergy: 7.428571428571429
+AvgLifetime: 14.470588235294118
+AvgChildren: 2.4285714285714284
 
 MAP1
 age: 68
-NoGrass: 132
-NoAnimals: 3
-AvgEnergy: 48.666666666666664
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 3
+NoAnimals: 13
+AvgEnergy: 7.0
+AvgLifetime: 14.257142857142858
+AvgChildren: 2.6153846153846154
 
 MAP1
 age: 69
-NoGrass: 134
-NoAnimals: 3
-AvgEnergy: 47.666666666666664
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 3
+NoAnimals: 11
+AvgEnergy: 7.2727272727272725
+AvgLifetime: 13.783783783783784
+AvgChildren: 3.090909090909091
 
 MAP1
 age: 70
-NoGrass: 136
-NoAnimals: 3
-AvgEnergy: 46.666666666666664
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 3
+NoAnimals: 9
+AvgEnergy: 10.11111111111111
+AvgLifetime: 13.948717948717949
+AvgChildren: 3.4444444444444446
 
 MAP1
 age: 71
-NoGrass: 138
-NoAnimals: 3
-AvgEnergy: 45.666666666666664
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 4
+NoAnimals: 8
+AvgEnergy: 10.375
+AvgLifetime: 13.725
+AvgChildren: 3.875
 
 MAP1
 age: 72
-NoGrass: 140
-NoAnimals: 3
-AvgEnergy: 44.666666666666664
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 5
+NoAnimals: 8
+AvgEnergy: 9.375
+AvgLifetime: 13.725
+AvgChildren: 3.875
 
 MAP1
 age: 73
-NoGrass: 142
-NoAnimals: 3
-AvgEnergy: 43.666666666666664
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 5
+NoAnimals: 7
+AvgEnergy: 9.142857142857142
+AvgLifetime: 13.476190476190476
+AvgChildren: 4.571428571428571
 
 MAP1
 age: 74
-NoGrass: 144
-NoAnimals: 3
-AvgEnergy: 42.666666666666664
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 5
+NoAnimals: 7
+AvgEnergy: 7.714285714285714
+AvgLifetime: 13.488372093023257
+AvgChildren: 4.428571428571429
 
 MAP1
 age: 75
-NoGrass: 146
-NoAnimals: 3
-AvgEnergy: 41.666666666666664
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 6
+NoAnimals: 7
+AvgEnergy: 9.428571428571429
+AvgLifetime: 13.636363636363637
+AvgChildren: 4.428571428571429
 
 MAP1
 age: 76
-NoGrass: 148
-NoAnimals: 3
-AvgEnergy: 40.666666666666664
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 6
+NoAnimals: 7
+AvgEnergy: 11.285714285714286
+AvgLifetime: 13.636363636363637
+AvgChildren: 4.428571428571429
 
 MAP1
 age: 77
-NoGrass: 150
-NoAnimals: 3
-AvgEnergy: 39.666666666666664
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 4
+NoAnimals: 7
+AvgEnergy: 16.0
+AvgLifetime: 13.636363636363637
+AvgChildren: 4.428571428571429
 
 MAP1
 age: 78
-NoGrass: 152
-NoAnimals: 3
-AvgEnergy: 38.666666666666664
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 5
+NoAnimals: 6
+AvgEnergy: 21.0
+AvgLifetime: 13.844444444444445
+AvgChildren: 5.0
 
 MAP1
 age: 79
-NoGrass: 154
-NoAnimals: 3
-AvgEnergy: 37.666666666666664
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 5
+NoAnimals: 6
+AvgEnergy: 20.0
+AvgLifetime: 13.844444444444445
+AvgChildren: 5.0
 
 MAP1
 age: 80
-NoGrass: 156
-NoAnimals: 3
-AvgEnergy: 36.666666666666664
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 6
+NoAnimals: 6
+AvgEnergy: 19.0
+AvgLifetime: 13.844444444444445
+AvgChildren: 5.0
 
 MAP1
 age: 81
-NoGrass: 158
-NoAnimals: 3
-AvgEnergy: 35.666666666666664
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 6
+NoAnimals: 5
+AvgEnergy: 21.8
+AvgLifetime: 13.652173913043478
+AvgChildren: 6.0
 
 MAP1
 age: 82
-NoGrass: 160
-NoAnimals: 3
-AvgEnergy: 34.666666666666664
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 6
+NoAnimals: 4
+AvgEnergy: 26.25
+AvgLifetime: 13.51063829787234
+AvgChildren: 7.5
 
 MAP1
 age: 83
-NoGrass: 161
-NoAnimals: 3
-AvgEnergy: 50.333333333333336
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 6
+NoAnimals: 4
+AvgEnergy: 25.25
+AvgLifetime: 13.51063829787234
+AvgChildren: 7.5
 
 MAP1
 age: 84
-NoGrass: 163
-NoAnimals: 3
-AvgEnergy: 49.333333333333336
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 6
+NoAnimals: 4
+AvgEnergy: 23.25
+AvgLifetime: 14.8125
+AvgChildren: 5.25
 
 MAP1
 age: 85
-NoGrass: 165
-NoAnimals: 3
-AvgEnergy: 48.333333333333336
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 6
+NoAnimals: 5
+AvgEnergy: 21.0
+AvgLifetime: 14.8125
+AvgChildren: 4.6
 
 MAP1
 age: 86
-NoGrass: 167
-NoAnimals: 3
-AvgEnergy: 47.333333333333336
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 6
+NoAnimals: 6
+AvgEnergy: 19.5
+AvgLifetime: 14.8125
+AvgChildren: 4.166666666666667
 
 MAP1
 age: 87
-NoGrass: 169
-NoAnimals: 3
-AvgEnergy: 46.333333333333336
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 6
+NoAnimals: 7
+AvgEnergy: 15.428571428571429
+AvgLifetime: 14.8125
+AvgChildren: 3.857142857142857
 
 MAP1
 age: 88
-NoGrass: 171
-NoAnimals: 3
-AvgEnergy: 45.333333333333336
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 5
+NoAnimals: 7
+AvgEnergy: 17.285714285714285
+AvgLifetime: 14.8125
+AvgChildren: 3.857142857142857
 
 MAP1
 age: 89
-NoGrass: 173
-NoAnimals: 3
-AvgEnergy: 44.333333333333336
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 5
+NoAnimals: 7
+AvgEnergy: 16.285714285714285
+AvgLifetime: 14.8125
+AvgChildren: 3.857142857142857
 
 MAP1
 age: 90
-NoGrass: 175
-NoAnimals: 3
-AvgEnergy: 43.333333333333336
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 5
+NoAnimals: 8
+AvgEnergy: 12.875
+AvgLifetime: 14.8125
+AvgChildren: 3.625
 
 MAP1
 age: 91
-NoGrass: 177
-NoAnimals: 3
-AvgEnergy: 42.333333333333336
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 4
+NoAnimals: 9
+AvgEnergy: 12.444444444444445
+AvgLifetime: 14.8125
+AvgChildren: 3.4444444444444446
 
 MAP1
 age: 92
-NoGrass: 179
-NoAnimals: 3
-AvgEnergy: 41.333333333333336
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 1
+NoAnimals: 8
+AvgEnergy: 20.5
+AvgLifetime: 14.591836734693878
+AvgChildren: 3.875
 
 MAP1
 age: 93
-NoGrass: 181
-NoAnimals: 3
-AvgEnergy: 40.333333333333336
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 2
+NoAnimals: 8
+AvgEnergy: 19.5
+AvgLifetime: 14.591836734693878
+AvgChildren: 3.875
 
 MAP1
 age: 94
-NoGrass: 183
-NoAnimals: 3
-AvgEnergy: 39.333333333333336
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 2
+NoAnimals: 8
+AvgEnergy: 17.75
+AvgLifetime: 14.44
+AvgChildren: 4.125
 
 MAP1
 age: 95
-NoGrass: 185
-NoAnimals: 3
-AvgEnergy: 38.333333333333336
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 3
+NoAnimals: 9
+AvgEnergy: 14.333333333333334
+AvgLifetime: 14.44
+AvgChildren: 3.888888888888889
 
 MAP1
 age: 96
-NoGrass: 187
-NoAnimals: 3
-AvgEnergy: 37.333333333333336
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 3
+NoAnimals: 9
+AvgEnergy: 15.444444444444445
+AvgLifetime: 14.352941176470589
+AvgChildren: 4.111111111111111
 
 MAP1
 age: 97
-NoGrass: 189
-NoAnimals: 3
-AvgEnergy: 36.333333333333336
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 2
+NoAnimals: 9
+AvgEnergy: 16.666666666666668
+AvgLifetime: 14.352941176470589
+AvgChildren: 4.111111111111111
 
 MAP1
 age: 98
-NoGrass: 190
-NoAnimals: 3
-AvgEnergy: 52.0
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 3
+NoAnimals: 9
+AvgEnergy: 15.666666666666666
+AvgLifetime: 14.352941176470589
+AvgChildren: 4.111111111111111
 
 MAP1
 age: 99
-NoGrass: 192
-NoAnimals: 3
-AvgEnergy: 51.0
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 3
+NoAnimals: 8
+AvgEnergy: 19.125
+AvgLifetime: 14.211538461538462
+AvgChildren: 4.625
 
 MAP1
 age: 100
-NoGrass: 194
-NoAnimals: 3
-AvgEnergy: 50.0
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 3
+NoAnimals: 8
+AvgEnergy: 20.625
+AvgLifetime: 14.211538461538462
+AvgChildren: 4.625
 
 MAP1
 age: 101
-NoGrass: 196
-NoAnimals: 3
-AvgEnergy: 49.0
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 3
+NoAnimals: 8
+AvgEnergy: 19.625
+AvgLifetime: 14.211538461538462
+AvgChildren: 4.625
 
 MAP1
 age: 102
-NoGrass: 198
-NoAnimals: 3
-AvgEnergy: 48.0
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 3
+NoAnimals: 7
+AvgEnergy: 27.142857142857142
+AvgLifetime: 14.037735849056604
+AvgChildren: 5.285714285714286
 
 MAP1
 age: 103
-NoGrass: 200
-NoAnimals: 3
-AvgEnergy: 47.0
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 3
+NoAnimals: 7
+AvgEnergy: 29.0
+AvgLifetime: 14.037735849056604
+AvgChildren: 5.285714285714286
 
 MAP1
 age: 104
-NoGrass: 202
-NoAnimals: 3
-AvgEnergy: 46.0
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 2
+NoAnimals: 7
+AvgEnergy: 30.857142857142858
+AvgLifetime: 14.037735849056604
+AvgChildren: 5.285714285714286
 
 MAP1
 age: 105
-NoGrass: 204
-NoAnimals: 3
-AvgEnergy: 45.0
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 1
+NoAnimals: 7
+AvgEnergy: 32.714285714285715
+AvgLifetime: 14.037735849056604
+AvgChildren: 5.285714285714286
 
 MAP1
 age: 106
-NoGrass: 206
-NoAnimals: 3
-AvgEnergy: 44.0
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 1
+NoAnimals: 7
+AvgEnergy: 34.57142857142857
+AvgLifetime: 14.037735849056604
+AvgChildren: 5.285714285714286
 
 MAP1
 age: 107
-NoGrass: 208
-NoAnimals: 3
-AvgEnergy: 43.0
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 2
+NoAnimals: 9
+AvgEnergy: 24.444444444444443
+AvgLifetime: 14.037735849056604
+AvgChildren: 4.555555555555555
 
 MAP1
 age: 108
-NoGrass: 210
-NoAnimals: 3
-AvgEnergy: 42.0
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 3
+NoAnimals: 11
+AvgEnergy: 20.0
+AvgLifetime: 14.037735849056604
+AvgChildren: 4.090909090909091
 
 MAP1
 age: 109
-NoGrass: 212
-NoAnimals: 3
-AvgEnergy: 41.0
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 2
+NoAnimals: 12
+AvgEnergy: 20.083333333333332
+AvgLifetime: 15.5
+AvgChildren: 2.75
 
 MAP1
 age: 110
-NoGrass: 214
-NoAnimals: 3
-AvgEnergy: 40.0
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 2
+NoAnimals: 13
+AvgEnergy: 17.307692307692307
+AvgLifetime: 15.5
+AvgChildren: 2.6923076923076925
 
 MAP1
 age: 111
-NoGrass: 215
-NoAnimals: 3
-AvgEnergy: 55.666666666666664
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 2
+NoAnimals: 14
+AvgEnergy: 14.928571428571429
+AvgLifetime: 15.5
+AvgChildren: 2.642857142857143
 
 MAP1
 age: 112
-NoGrass: 217
-NoAnimals: 3
-AvgEnergy: 54.666666666666664
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 2
+NoAnimals: 14
+AvgEnergy: 13.928571428571429
+AvgLifetime: 15.5
+AvgChildren: 2.642857142857143
 
 MAP1
 age: 113
-NoGrass: 219
-NoAnimals: 3
-AvgEnergy: 53.666666666666664
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 2
+NoAnimals: 14
+AvgEnergy: 12.928571428571429
+AvgLifetime: 15.5
+AvgChildren: 2.642857142857143
 
 MAP1
 age: 114
-NoGrass: 221
-NoAnimals: 3
-AvgEnergy: 52.666666666666664
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 3
+NoAnimals: 14
+AvgEnergy: 11.928571428571429
+AvgLifetime: 15.5
+AvgChildren: 2.642857142857143
 
 MAP1
 age: 115
-NoGrass: 223
-NoAnimals: 3
-AvgEnergy: 51.666666666666664
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 2
+NoAnimals: 14
+AvgEnergy: 12.357142857142858
+AvgLifetime: 15.5
+AvgChildren: 2.642857142857143
 
 MAP1
 age: 116
-NoGrass: 225
-NoAnimals: 3
-AvgEnergy: 50.666666666666664
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 2
+NoAnimals: 14
+AvgEnergy: 11.357142857142858
+AvgLifetime: 15.5
+AvgChildren: 2.642857142857143
 
 MAP1
 age: 117
-NoGrass: 227
-NoAnimals: 3
-AvgEnergy: 49.666666666666664
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 1
+NoAnimals: 13
+AvgEnergy: 12.76923076923077
+AvgLifetime: 15.345454545454546
+AvgChildren: 2.8461538461538463
 
 MAP1
 age: 118
-NoGrass: 229
-NoAnimals: 3
-AvgEnergy: 48.666666666666664
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 1
+NoAnimals: 11
+AvgEnergy: 15.909090909090908
+AvgLifetime: 15.12280701754386
+AvgChildren: 3.1818181818181817
 
 MAP1
 age: 119
-NoGrass: 231
-NoAnimals: 3
-AvgEnergy: 47.666666666666664
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 1
+NoAnimals: 11
+AvgEnergy: 16.272727272727273
+AvgLifetime: 14.982758620689655
+AvgChildren: 3.3636363636363638
 
 MAP1
 age: 120
-NoGrass: 233
-NoAnimals: 3
-AvgEnergy: 46.666666666666664
-AvgLifetime: 50.0
-AvgChildren: 0.0
+NoGrass: 1
+NoAnimals: 11
+AvgEnergy: 16.727272727272727
+AvgLifetime: 14.915254237288135
+AvgChildren: 3.5454545454545454
+
+MAP1
+age: 121
+NoGrass: 2
+NoAnimals: 11
+AvgEnergy: 15.545454545454545
+AvgLifetime: 14.883333333333333
+AvgChildren: 3.5454545454545454
+
+MAP1
+age: 122
+NoGrass: 4
+NoAnimals: 10
+AvgEnergy: 16.1
+AvgLifetime: 15.065573770491802
+AvgChildren: 3.8
+
+MAP1
+age: 123
+NoGrass: 2
+NoAnimals: 11
+AvgEnergy: 16.636363636363637
+AvgLifetime: 15.065573770491802
+AvgChildren: 3.6363636363636362
+
+MAP1
+age: 124
+NoGrass: 2
+NoAnimals: 12
+AvgEnergy: 15.5
+AvgLifetime: 15.065573770491802
+AvgChildren: 3.5
+
+MAP1
+age: 125
+NoGrass: 1
+NoAnimals: 13
+AvgEnergy: 16.153846153846153
+AvgLifetime: 15.065573770491802
+AvgChildren: 3.3846153846153846
+
+MAP1
+age: 126
+NoGrass: 2
+NoAnimals: 14
+AvgEnergy: 14.785714285714286
+AvgLifetime: 15.32258064516129
+AvgChildren: 3.357142857142857
+
+MAP1
+age: 127
+NoGrass: 2
+NoAnimals: 16
+AvgEnergy: 12.8125
+AvgLifetime: 15.32258064516129
+AvgChildren: 3.1875
+
+MAP1
+age: 128
+NoGrass: 1
+NoAnimals: 18
+AvgEnergy: 11.055555555555555
+AvgLifetime: 15.32258064516129
+AvgChildren: 3.0555555555555554
+
+MAP1
+age: 129
+NoGrass: 2
+NoAnimals: 20
+AvgEnergy: 8.6
+AvgLifetime: 15.32258064516129
+AvgChildren: 2.95
+
+MAP1
+age: 130
+NoGrass: 3
+NoAnimals: 19
+AvgEnergy: 8.0
+AvgLifetime: 15.75
+AvgChildren: 2.736842105263158
+
+MAP1
+age: 131
+NoGrass: 3
+NoAnimals: 18
+AvgEnergy: 8.555555555555555
+AvgLifetime: 15.676923076923076
+AvgChildren: 2.8333333333333335
+
+MAP1
+age: 132
+NoGrass: 2
+NoAnimals: 18
+AvgEnergy: 8.666666666666666
+AvgLifetime: 15.676923076923076
+AvgChildren: 2.8333333333333335
+
+MAP1
+age: 133
+NoGrass: 2
+NoAnimals: 19
+AvgEnergy: 8.157894736842104
+AvgLifetime: 15.676923076923076
+AvgChildren: 2.789473684210526
+
+MAP1
+age: 134
+NoGrass: 2
+NoAnimals: 20
+AvgEnergy: 7.55
+AvgLifetime: 15.575757575757576
+AvgChildren: 2.8
+
+MAP1
+age: 135
+NoGrass: 1
+NoAnimals: 18
+AvgEnergy: 8.5
+AvgLifetime: 16.75
+AvgChildren: 2.2222222222222223
+
+MAP1
+age: 136
+NoGrass: 2
+NoAnimals: 16
+AvgEnergy: 8.5625
+AvgLifetime: 16.571428571428573
+AvgChildren: 2.3125
+
+MAP1
+age: 137
+NoGrass: 2
+NoAnimals: 13
+AvgEnergy: 9.384615384615385
+AvgLifetime: 16.12162162162162
+AvgChildren: 2.923076923076923
+
+MAP1
+age: 138
+NoGrass: 1
+NoAnimals: 13
+AvgEnergy: 11.461538461538462
+AvgLifetime: 16.12162162162162
+AvgChildren: 2.923076923076923
+
+MAP1
+age: 139
+NoGrass: 1
+NoAnimals: 13
+AvgEnergy: 10.23076923076923
+AvgLifetime: 15.96
+AvgChildren: 3.076923076923077
+
+MAP1
+age: 140
+NoGrass: 1
+NoAnimals: 12
+AvgEnergy: 11.25
+AvgLifetime: 15.961538461538462
+AvgChildren: 3.25
+
+MAP1
+age: 141
+NoGrass: 2
+NoAnimals: 13
+AvgEnergy: 9.153846153846153
+AvgLifetime: 15.961538461538462
+AvgChildren: 3.1538461538461537
+
+MAP1
+age: 142
+NoGrass: 2
+NoAnimals: 13
+AvgEnergy: 9.538461538461538
+AvgLifetime: 16.620253164556964
+AvgChildren: 2.230769230769231
+
+MAP1
+age: 143
+NoGrass: 2
+NoAnimals: 12
+AvgEnergy: 11.0
+AvgLifetime: 17.1375
+AvgChildren: 1.6666666666666667
+
+MAP1
+age: 144
+NoGrass: 2
+NoAnimals: 12
+AvgEnergy: 9.75
+AvgLifetime: 16.962962962962962
+AvgChildren: 1.8333333333333333
+
+MAP1
+age: 145
+NoGrass: 1
+NoAnimals: 11
+AvgEnergy: 13.272727272727273
+AvgLifetime: 16.817073170731707
+AvgChildren: 2.0
+
+MAP1
+age: 146
+NoGrass: 2
+NoAnimals: 11
+AvgEnergy: 12.0
+AvgLifetime: 16.710843373493976
+AvgChildren: 2.1818181818181817
+
+MAP1
+age: 147
+NoGrass: 2
+NoAnimals: 13
+AvgEnergy: 8.76923076923077
+AvgLifetime: 16.710843373493976
+AvgChildren: 2.1538461538461537
+
+MAP1
+age: 148
+NoGrass: 1
+NoAnimals: 15
+AvgEnergy: 7.6
+AvgLifetime: 16.710843373493976
+AvgChildren: 2.1333333333333333
+
+MAP1
+age: 149
+NoGrass: 1
+NoAnimals: 15
+AvgEnergy: 7.8
+AvgLifetime: 16.773809523809526
+AvgChildren: 2.066666666666667
+
+MAP1
+age: 150
+NoGrass: 2
+NoAnimals: 14
+AvgEnergy: 7.357142857142857
+AvgLifetime: 16.658823529411766
+AvgChildren: 2.2142857142857144
+
+MAP1
+age: 151
+NoGrass: 2
+NoAnimals: 12
+AvgEnergy: 9.25
+AvgLifetime: 16.632183908045977
+AvgChildren: 2.1666666666666665
+
+MAP1
+age: 152
+NoGrass: 1
+NoAnimals: 12
+AvgEnergy: 9.916666666666666
+AvgLifetime: 16.632183908045977
+AvgChildren: 2.1666666666666665
+
+MAP1
+age: 153
+NoGrass: 1
+NoAnimals: 12
+AvgEnergy: 10.583333333333334
+AvgLifetime: 16.632183908045977
+AvgChildren: 2.1666666666666665
+
+MAP1
+age: 154
+NoGrass: 1
+NoAnimals: 11
+AvgEnergy: 10.545454545454545
+AvgLifetime: 16.5
+AvgChildren: 2.3636363636363638
+
+MAP1
+age: 155
+NoGrass: 1
+NoAnimals: 9
+AvgEnergy: 11.88888888888889
+AvgLifetime: 16.27777777777778
+AvgChildren: 2.888888888888889
+
+MAP1
+age: 156
+NoGrass: 2
+NoAnimals: 9
+AvgEnergy: 10.88888888888889
+AvgLifetime: 16.27777777777778
+AvgChildren: 2.888888888888889
+
+MAP1
+age: 157
+NoGrass: 3
+NoAnimals: 7
+AvgEnergy: 12.428571428571429
+AvgLifetime: 16.387096774193548
+AvgChildren: 3.142857142857143
+
+MAP1
+age: 158
+NoGrass: 4
+NoAnimals: 8
+AvgEnergy: 9.5
+AvgLifetime: 16.387096774193548
+AvgChildren: 3.0
+
+MAP1
+age: 159
+NoGrass: 3
+NoAnimals: 7
+AvgEnergy: 15.571428571428571
+AvgLifetime: 16.585106382978722
+AvgChildren: 2.7142857142857144
+
+MAP1
+age: 160
+NoGrass: 3
+NoAnimals: 7
+AvgEnergy: 17.428571428571427
+AvgLifetime: 16.585106382978722
+AvgChildren: 2.7142857142857144
+
+MAP1
+age: 161
+NoGrass: 4
+NoAnimals: 6
+AvgEnergy: 19.333333333333332
+AvgLifetime: 16.621052631578948
+AvgChildren: 2.6666666666666665
+
+MAP1
+age: 162
+NoGrass: 5
+NoAnimals: 7
+AvgEnergy: 15.0
+AvgLifetime: 16.621052631578948
+AvgChildren: 2.5714285714285716
+
+MAP1
+age: 163
+NoGrass: 4
+NoAnimals: 8
+AvgEnergy: 16.875
+AvgLifetime: 16.621052631578948
+AvgChildren: 2.5
+
+MAP1
+age: 164
+NoGrass: 4
+NoAnimals: 10
+AvgEnergy: 12.1
+AvgLifetime: 16.621052631578948
+AvgChildren: 2.4
+
+MAP1
+age: 165
+NoGrass: 2
+NoAnimals: 11
+AvgEnergy: 15.272727272727273
+AvgLifetime: 16.621052631578948
+AvgChildren: 2.3636363636363638
+
+MAP1
+age: 166
+NoGrass: 2
+NoAnimals: 11
+AvgEnergy: 14.272727272727273
+AvgLifetime: 16.621052631578948
+AvgChildren: 2.3636363636363638
+
+MAP1
+age: 167
+NoGrass: 1
+NoAnimals: 12
+AvgEnergy: 13.416666666666666
+AvgLifetime: 16.621052631578948
+AvgChildren: 2.3333333333333335
+
+MAP1
+age: 168
+NoGrass: 2
+NoAnimals: 13
+AvgEnergy: 11.153846153846153
+AvgLifetime: 16.621052631578948
+AvgChildren: 2.3076923076923075
+
+MAP1
+age: 169
+NoGrass: 1
+NoAnimals: 14
+AvgEnergy: 12.0
+AvgLifetime: 16.621052631578948
+AvgChildren: 2.2857142857142856
+
+MAP1
+age: 170
+NoGrass: 1
+NoAnimals: 15
+AvgEnergy: 11.0
+AvgLifetime: 16.5
+AvgChildren: 2.4
+
+MAP1
+age: 171
+NoGrass: 0
+NoAnimals: 17
+AvgEnergy: 10.823529411764707
+AvgLifetime: 16.5
+AvgChildren: 2.3529411764705883
+
+MAP1
+age: 172
+NoGrass: 0
+NoAnimals: 17
+AvgEnergy: 9.647058823529411
+AvgLifetime: 16.412371134020617
+AvgChildren: 2.4705882352941178
+
+MAP1
+age: 173
+NoGrass: 1
+NoAnimals: 17
+AvgEnergy: 8.647058823529411
+AvgLifetime: 16.412371134020617
+AvgChildren: 2.4705882352941178
+
+MAP1
+age: 174
+NoGrass: 0
+NoAnimals: 18
+AvgEnergy: 8.166666666666666
+AvgLifetime: 16.412371134020617
+AvgChildren: 2.4444444444444446
+
+MAP1
+age: 175
+NoGrass: 0
+NoAnimals: 18
+AvgEnergy: 7.0
+AvgLifetime: 16.581632653061224
+AvgChildren: 2.388888888888889
+
+MAP1
+age: 176
+NoGrass: 0
+NoAnimals: 19
+AvgEnergy: 6.526315789473684
+AvgLifetime: 16.581632653061224
+AvgChildren: 2.3684210526315788
+
+MAP1
+age: 177
+NoGrass: 1
+NoAnimals: 17
+AvgEnergy: 6.235294117647059
+AvgLifetime: 16.287128712871286
+AvgChildren: 2.764705882352941
+
+MAP1
+age: 178
+NoGrass: 1
+NoAnimals: 16
+AvgEnergy: 6.75
+AvgLifetime: 16.233009708737864
+AvgChildren: 2.9375
+
+MAP1
+age: 179
+NoGrass: 2
+NoAnimals: 13
+AvgEnergy: 8.846153846153847
+AvgLifetime: 15.943396226415095
+AvgChildren: 3.6153846153846154
+
+MAP1
+age: 180
+NoGrass: 0
+NoAnimals: 15
+AvgEnergy: 9.0
+AvgLifetime: 15.943396226415095
+AvgChildren: 3.4
+
+MAP1
+age: 181
+NoGrass: 0
+NoAnimals: 15
+AvgEnergy: 9.266666666666667
+AvgLifetime: 16.102803738317757
+AvgChildren: 3.1333333333333333
+
+MAP1
+age: 182
+NoGrass: 1
+NoAnimals: 13
+AvgEnergy: 9.692307692307692
+AvgLifetime: 16.146788990825687
+AvgChildren: 3.230769230769231
+
+MAP1
+age: 183
+NoGrass: 2
+NoAnimals: 13
+AvgEnergy: 8.692307692307692
+AvgLifetime: 16.146788990825687
+AvgChildren: 3.230769230769231
+
+MAP1
+age: 184
+NoGrass: 3
+NoAnimals: 10
+AvgEnergy: 12.3
+AvgLifetime: 15.991071428571429
+AvgChildren: 4.0
+
+MAP1
+age: 185
+NoGrass: 3
+NoAnimals: 10
+AvgEnergy: 13.3
+AvgLifetime: 15.991071428571429
+AvgChildren: 4.0
+
+MAP1
+age: 186
+NoGrass: 3
+NoAnimals: 9
+AvgEnergy: 16.0
+AvgLifetime: 15.88495575221239
+AvgChildren: 4.444444444444445
+
+MAP1
+age: 187
+NoGrass: 4
+NoAnimals: 8
+AvgEnergy: 16.625
+AvgLifetime: 15.71304347826087
+AvgChildren: 5.25
+
+MAP1
+age: 188
+NoGrass: 3
+NoAnimals: 8
+AvgEnergy: 18.125
+AvgLifetime: 15.71304347826087
+AvgChildren: 5.25
+
+MAP1
+age: 189
+NoGrass: 2
+NoAnimals: 8
+AvgEnergy: 19.625
+AvgLifetime: 15.71304347826087
+AvgChildren: 5.25
+
+MAP1
+age: 190
+NoGrass: 2
+NoAnimals: 9
+AvgEnergy: 16.0
+AvgLifetime: 15.71304347826087
+AvgChildren: 4.888888888888889
 

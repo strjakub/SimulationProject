@@ -48,7 +48,7 @@ public class AbstractWorldMap{
         return height;
     }
 
-    public int getNumberOfAnimals(Vector2d vector){return animals.get(vector).size();}
+    public int getNumberOfAnimalsOnTile(Vector2d vector){return animals.get(vector).size();}
 
     public int getStartEnergy() {
         return startEnergy;
@@ -74,8 +74,8 @@ public class AbstractWorldMap{
                 animals.put(new Vector2d(i, j), new TreeSet<>(new AnimalComparator()));
         }
 
-        int jungleWidth = (int) Math.floor((float) width * Math.sqrt(jungleRatio1 / (jungleRatio1 + 1)));
-        int jungleHeight = (int) Math.floor((float) height * Math.sqrt(jungleRatio1 / (jungleRatio1 + 1)));
+        int jungleWidth = (int) Math.max(Math.floor((float) width * Math.sqrt(jungleRatio1 / (jungleRatio1 + 1))), 1);
+        int jungleHeight = (int) Math.max(Math.floor((float) height * Math.sqrt(jungleRatio1 / (jungleRatio1 + 1))), 1);
         jungleWidthStart = (int)Math.floor(((float)width - (float) jungleWidth) / 2);
         jungleWidthEnd = width - (int)Math.ceil(((float)width - (float) jungleWidth) / 2);
         jungleHeightStart = (int)Math.floor(((float)height - (float) jungleHeight) / 2);
@@ -157,8 +157,10 @@ public class AbstractWorldMap{
         for(Animal eater : eaters){
             eater.addEnergy((int) Math.floor((float) grassValue / (float) eaters.size()));
         }
-        grasses.remove(vector);
-        numberOfGrass = numberOfGrass - 1;
+        if(eaters.size() > 0) {
+            grasses.remove(vector);
+            numberOfGrass = numberOfGrass - 1;
+        }
     }
 
     public void change(Vector2d oldPosition, Vector2d newPosition, Animal animal){

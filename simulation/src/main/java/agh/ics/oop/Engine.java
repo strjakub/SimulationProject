@@ -126,10 +126,10 @@ public class Engine implements IEngine{
                 for (int j = 0; j < map.getWidth(); ++j) {
                     for (int k = 0; k < map.getHeight(); ++k) {
                         Vector2d vector = new Vector2d(j, k);
-                        if (map.getNumberOfAnimals(vector) > 0 && map.isGrass(vector))
+                        if (map.getNumberOfAnimalsOnTile(vector) > 0 && map.isGrass(vector))
                             map.eat(vector);
 
-                        if (map.getNumberOfAnimals(vector) >= 2)
+                        if (map.getNumberOfAnimalsOnTile(vector) >= 2)
                             map.reproduce(vector);
                     }
                 }
