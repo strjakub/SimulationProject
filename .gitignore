@@ -1,0 +1,6 @@
+simulation/gradlew
+simulation/gradlew.bat
+simulation/.gradle/
+simulation/build/
+simulation/.idea/
+simulation/gradle/wrapper/
