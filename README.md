@@ -8,3 +8,12 @@ It shows how creatures can evolve if only they have some grass :)
 ```
   ./gradlew run
 ```
+#Testing
+Generating tests raport:
+```
+  ./gradlew clean test
+```
+Opening latest raport:
+```
+  build/reports/tests/test/index.html
+```
