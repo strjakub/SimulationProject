@@ -33,7 +33,7 @@ public class Animal{
     public Animal(Animal strongParent, Animal weakParent){
         float proportion = (float)(strongParent.getEnergy()) / (float)(strongParent.getEnergy() + weakParent.getEnergy());
         this.map = strongParent.getMap();
-        startEnergy = map.getStartEnergy(); //to niepotrzebne bo po co ma zwierze wiedziec jaka energie poczatkowa mieli jego przodkowie, no ale...
+        startEnergy = map.getStartEnergy();
         cost = map.getCost();
         addObserver(this.map);
         this.position = strongParent.getPosition();
