@@ -1,6 +1,7 @@
 # SimulationProject
-This project was created to improve Object Oriented Programming skills and have some fun.
-It shows how creatures can evolve if only they have some grass :)
+Application simulating life and genotype dominance on map where creatures can move, eat and reproduce.
+
+Technologies: Java, jUnit, Gradle, observer pattern
 # Requirements
 - Gradle 7.1
 - JVM 16.0.1
