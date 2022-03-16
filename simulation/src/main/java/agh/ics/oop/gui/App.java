@@ -72,8 +72,8 @@ public class App extends Application {
 
     private final File csvFile = new File("changelog.csv");
     private final PrintWriter out = new PrintWriter(csvFile);
-    private long dunnoWhatIAmDoingButItWorks = -1;
-    private long dunnoWhatIAmDoingButItWorks2 = -1;
+    private long marker1 = -1;
+    private long marker2 = -1;
 
     public App() throws FileNotFoundException {
     }
@@ -182,11 +182,7 @@ public class App extends Application {
     public void start(Stage primaryStage){
         Label info = new Label("""
                 --INFO--
-                teoretycznie mapa o powierzchni 3000 poszlaby na tej symulacji jednak z powodow wydajnosciowych dla map o wprowadzonej powierzchni
-                powyzej 2500 symulacja nie odpali sie (RunTimeException -> exit(0)), osobisci npolecam mapy o powierzchni do 2000 coby laptop za bardzo nie chcial odleciec
-                
-                Dodatkowe informacje:
-                -lewa mapa to ta zawijana, prawa ogrodzona murem
+                -lewa mapa jest "zawijana", prawa ogrodzona murem
                 -trawa oznaczona jest zielonymi prostokatami, zgnilozielony jungla, zielony step
                 -zwierzeta sa czerwonymi kolkami, im bardziej wyblakle tym ma mniej energii
                 -osobniki z wiodacym genotypem podswietla sie na niebiesko
@@ -277,13 +273,13 @@ public class App extends Application {
             series71.getData().add(new XYChart.Data(engine1.getAge(), engine1.getAvgChildren()));
             series81.getData().add(new XYChart.Data(engine2.getAge(), engine2.getAvgChildren()));
 
-            if(engine1.getAge() > dunnoWhatIAmDoingButItWorks) {
-                dunnoWhatIAmDoingButItWorks = engine1.getAge();
+            if(engine1.getAge() > marker1) {
+                marker1 = engine1.getAge();
                 this.out.println("MAP1\nage: " + engine1.getAge() + "\nNoGrass: " + firstMap.getNumberOfGrass() + "\nNoAnimals: " + firstMap.getNumberOfAnimals() +
                         "\nAvgEnergy: " + engine1.getAvgEnergy() + "\nAvgLifetime: " + engine1.getAvgLifetime() + "\nAvgChildren: " + engine1.getAvgChildren() + "\n");
             }
-            if(engine2.getAge() > dunnoWhatIAmDoingButItWorks2){
-                dunnoWhatIAmDoingButItWorks2 = engine2.getAge();
+            if(engine2.getAge() > marker2){
+                marker2 = engine2.getAge();
                 this.out.println("MAP2\nage: " + engine2.getAge() + "\nNoGrass: " + secondMap.getNumberOfGrass() + "\nNoAnimals: " + secondMap.getNumberOfAnimals() +
                         "\nAvgEnergy: " + engine2.getAvgEnergy() + "\nAvgLifetime: " + engine2.getAvgLifetime() + "\nAvgChildren: " + engine2.getAvgChildren() + "\n");
             }
