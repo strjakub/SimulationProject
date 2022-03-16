@@ -182,7 +182,7 @@ public class App extends Application {
     public void start(Stage primaryStage){
         Label info = new Label("""
                 --INFO--
-                -lewa mapa jest "zawijana", prawa ogrodzona murem
+                -lewa mapa jest zawijana, prawa ogrodzona murem
                 -trawa oznaczona jest zielonymi prostokatami, zgnilozielony jungla, zielony step
                 -zwierzeta sa czerwonymi kolkami, im bardziej wyblakle tym ma mniej energii
                 -osobniki z wiodacym genotypem podswietla sie na niebiesko
